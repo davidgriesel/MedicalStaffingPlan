@@ -10,42 +10,37 @@ To inform the timing and spatial distribution of a medical agency’s staffing p
 The plan prepares for the upcoming 2018 season and covers all hospitals in each of the 50 states of the United States.
 
 # Objectives
-
 ## Spatial Distribution & Risk Classification
 Identify and prioritise states with large vulnerable populations by categorising them as low, medium, or high risk based on population size.
-
 ## Seasonality & Forecasting
 Assess whether influenza follows a seasonal pattern and, if so, determine whether its onset and duration remain consistent across states each year in order to forecast trends for the upcoming season.
 
 # Key Questions
-
 ## Spatial distribution & Risk Classification
 Does the severity of influenza vary?
 Who suffers most?
 Does population size have an impact?
 Where are vulnerable populations located?
 How does population size translate to risk?
-
-### Seasonality & Forecasting
+## Seasonality & Forecasting
 When is influenza most prevalent?
 
-## Tools & Techniques
+# Tools & Techniques
 Excel - Data Preparation | Statistical Analysis | Hypothesis Testing
 Tableau - Visualisation | Storytelling
 
-## Data
+# Data
 The following datasets from the Centres for Disease Control and Prevention (CDC) and the US Census Bureau were used that cover the period 2009 to 2017:
-
 ## Number of influenza-related deaths
 Number of deaths by location, time, and age. (CDC)
-
 ## Influenza vaccination rates in children
 Number of vaccinations by location, time, and age. (CDC)
-
-### Population
+## Population
 Number of people by location, time, age, and gender. (US Census Bureau)
 
-## Other Links
+# Other Links
 [Tableau Storyboard]([https://example.com](https://public.tableau.com/views/InfluenzaSeason_17337130832630/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+
 [CDC](https://wonder.cdc.gov/ucd-icd10.html)
+
 [US Census Bureau](https://data.census.gov)
