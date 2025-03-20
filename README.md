@@ -40,7 +40,7 @@ Number of vaccinations by location, time, and age. (CDC)
 Number of people by location, time, age, and gender. (US Census Bureau)
 
 ## Other Links
-[Tableau Storyboard]([https://example.com](https://public.tableau.com/views/InfluenzaSeason_17337130832630/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[Tableau Storyboard](https://public.tableau.com/views/InfluenzaSeason_17337130832630/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 [CDC](https://wonder.cdc.gov/ucd-icd10.html)
 
